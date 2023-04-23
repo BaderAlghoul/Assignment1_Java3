@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Assignment1_Java3.jnlp">
+  <information>
+    <title>Assignment1_Java3</title>
+    <vendor>Bader M</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Assignment1_Java3.jar" size="35982" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="assignment1_java3.Assignment1_Java3"  name="Assignment1_Java3" />
+  <update check="always"/>
+</jnlp>
